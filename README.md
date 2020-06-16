@@ -55,7 +55,7 @@ This is an Amazing website which deals with Machine Learning , It provides sever
 
 9.UDEMY
 
-The Students can refer various topics and can be benifited too .We also have are Interesting Blogs , You Can visit are Blogs and can get a crystal clear idea about it.we also have a whatsup link in the website which can be convenient to many students as we would put all the latest updates every end of the month.
+The Students can refer various topics and can be benifited too .We also have are Interesting Blogs , You Can visit are Blogs and can get a Limpid idea about it.we also have a whatsup link in the website which can be convenient to many students as we would put all the latest updates every end of the month.
 Another interesting part in the website is we have are link to are youtube channel .
 You can also follow us on Instagram , Facebook ,and Youtube .
 The links for the same are linked with the website .
