@@ -106,10 +106,10 @@ The links for the same are linked with the website .
     </a></p>
 
 ### Built With
+* HTML
+* CSS
+* BOOTSTRAP
 
-* [Bootstrap](https://getbootstrap.com)
-* [Python](https://docs.python.org/3/m)
-* [django](https://docs.djangoproject.com/en/3.0/)
 
 
  
