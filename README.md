@@ -28,7 +28,7 @@
 
 * [About the Website](#about-the-project)
 * [License](#license)
-* [Acknowledgements](#acknowledgements)
+
 
 
 
