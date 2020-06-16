@@ -1,17 +1,18 @@
 
-Code Stacks is a free learning source which is developed and operated by L&D. Our motive is to provide free courses on coding and make every individual ready to make their own contribution to the information world
+
 
 
 
 # CodeStacks Website
 <!-- PROJECT LOGO -->
+<h3>Code Stacks is a free learning source which is developed and operated by L&D. Our motive is to provide free courses on coding and make every individual ready to make their own contribution to the information world</h3>
+  <h3 align="center"></h3>
 <br />
 <p align="center">
   <a href="">
     <img src="https://github.com/Novia-2018/Code-Stacks-Website/blob/master/images/codestacks.jpg?raw=true" alt="Logo" width="80" height="80">
   </a>
-<h3>Code Stacks is a free learning source which is developed and operated by L&D. Our motive is to provide free courses on coding and make every individual ready to make their own contribution to the information world</h3>
-  <h3 align="center"></h3>
+
 
   <p align="center">
    <h4> An Amazing Website which help us to Relate with the most Growing topic Machine Learning .</h4>
